@@ -1,0 +1,17 @@
+>Log out
+(destroy session)
+
+>Posts resource/model
+(photo, caption, user_id, reactions (dog themed), comments(drop down))
+
+>Validation on user signup
+(username not taken, password min length, etc)
+
+>Show user => View Profile
+-->expand data on Profile
+
+{...} add a news feed
+{...} friends?
+{...} styles (tailwind?)
+
+
